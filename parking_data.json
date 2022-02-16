@@ -1,0 +1,336 @@
+[
+    {
+        "className": "ContinueSuggestion",
+        "type": "CONTINUE",
+        "suggestionId": "CONTINUE;7893d37f-a863-4218-8cc4-0f56f011e24e;0;0",
+        "isInitialResult": true,
+        "parkingSituationSummary": "MEDIUM"
+    },
+    {
+        "className": "POIParkingSuggestion",
+        "type": "CHARGING_AND_PARKING",
+        "suggestionId": "CHARGING_AND_PARKING;7893d37f-a863-4218-8cc4-0f56f011e24e;1;0",
+        "isInitialResult": true,
+        "displayName": "AC Stadtwerke München GmbH",
+        "providerKey": "DE:DCS:CHARGE_POINT:ad76b804-7dc9-363e-892f-2d423a3d3b24",
+        "providerId": 209,
+        "poiCategoryId": 13000,
+        "address": {
+            "country": "Germany",
+            "countryCode": "DE",
+            "street": "Theresienstraße 53",
+            "city": "München",
+            "zipCode": "80333"
+        },
+        "poiEntryLocation": {
+            "lat": 48.15079,
+            "lon": 11.565181
+        },
+        "poiLocation": {
+            "lat": 48.15079,
+            "lon": 11.565181
+        },
+        "walkingDistance": 294,
+        "isWalkingDistanceValid": true,
+        "parkingPriceDescriptor": "NO_INFORMATION",
+        "phoneNumber": "+49 800 796888023",
+        "availability": 1,
+        "booleanTranslatedPOIDetailAttributes": [
+            {
+                "attributeId": -267,
+                "isDisplayable": true,
+                "attributeName": "Reservable",
+                "value": false
+            },
+            {
+                "attributeId": -275,
+                "isDisplayable": true,
+                "attributeName": "BMW Charging/MINI Charging",
+                "value": true
+            }
+        ],
+        "stringTranslatedPOIDetailAttributes": [
+            {
+                "attributeId": 9,
+                "isDisplayable": true,
+                "attributeName": "Method of payment",
+                "value": [
+                    "BMW Charging/MINI Charging only"
+                ]
+            },
+            {
+                "attributeId": 61,
+                "isDisplayable": true,
+                "attributeName": "Type of connector",
+                "value": [
+                    "AC Type 2"
+                ]
+            }
+        ]
+    },
+    {
+        "className": "POIParkingSuggestion",
+        "type": "PARKING_GARAGE",
+        "suggestionId": "PARKING_GARAGE;7893d37f-a863-4218-8cc4-0f56f011e24e;2;0",
+        "isInitialResult": true,
+        "displayName": "In der Amalienpassage",
+        "providerKey": "244505",
+        "providerId": 25,
+        "poiCategoryId": 11040,
+        "address": {
+            "country": "Germany",
+            "countryCode": "DE",
+            "street": "Türkenstraße 84",
+            "city": "München",
+            "zipCode": "80799"
+        },
+        "poiEntryLocation": {
+            "lat": 48.151865668,
+            "lon": 11.577013582
+        },
+        "poiLocation": {
+            "lat": 48.151844194,
+            "lon": 11.577083319
+        },
+        "walkingDistance": 882,
+        "isWalkingDistanceValid": true,
+        "parkingPriceDescriptor": "PREMIUM",
+        "parkingPrice": 6.0,
+        "formattedParkingPrice": "EUR6.00",
+        "phoneNumber": "+49 174 8382222",
+        "availability": 2,
+        "stringTranslatedPOIDetailAttributes": [
+            {
+                "attributeId": -50,
+                "isDisplayable": true,
+                "attributeName": "Opening hours",
+                "value": [
+                    "Mon-Sun 00:00-24:00"
+                ]
+            },
+            {
+                "attributeId": -900,
+                "isDisplayable": true,
+                "attributeName": "Number of free parking spaces",
+                "value": [
+                    "73"
+                ]
+            },
+            {
+                "attributeId": -905,
+                "isDisplayable": true,
+                "attributeName": "Number of parking spaces",
+                "value": [
+                    "205"
+                ]
+            },
+            {
+                "attributeId": 9,
+                "isDisplayable": true,
+                "attributeName": "Payment method",
+                "value": [
+                    "Eurocard/MAESTRO",
+                    "MasterCard",
+                    "Bank notes",
+                    "VISA",
+                    "Coins",
+                    "American Express"
+                ]
+            },
+            {
+                "attributeId": -30,
+                "isDisplayable": true,
+                "attributeName": "Prices",
+                "value": [
+                    "Mon-Sun 24 hours: EUR 1.50/30 mins, Mon-Sun 24 hours: EUR 24.00/24 hours"
+                ]
+            }
+        ]
+    },
+    {
+        "className": "POIParkingSuggestion",
+        "type": "CHARGING_AND_PARKING",
+        "suggestionId": "CHARGING_AND_PARKING;7893d37f-a863-4218-8cc4-0f56f011e24e;3;1",
+        "isInitialResult": false,
+        "displayName": "AC Stadtwerke München GmbH",
+        "providerKey": "DE:DCS:CHARGE_POINT:4005da56-c269-335e-a97b-da160bc03d2c",
+        "providerId": 209,
+        "poiCategoryId": 13000,
+        "address": {
+            "country": "Germany",
+            "countryCode": "DE",
+            "street": "Georgenstraße 104",
+            "city": "München",
+            "zipCode": "80798"
+        },
+        "poiEntryLocation": {
+            "lat": 48.156803,
+            "lon": 11.567736
+        },
+        "poiLocation": {
+            "lat": 48.156803,
+            "lon": 11.567736
+        },
+        "walkingDistance": 632,
+        "isWalkingDistanceValid": true,
+        "parkingPriceDescriptor": "NO_INFORMATION",
+        "phoneNumber": "+49 800 796888023",
+        "availability": 1,
+        "booleanTranslatedPOIDetailAttributes": [
+            {
+                "attributeId": -267,
+                "isDisplayable": true,
+                "attributeName": "Reservable",
+                "value": false
+            },
+            {
+                "attributeId": -275,
+                "isDisplayable": true,
+                "attributeName": "BMW Charging/MINI Charging",
+                "value": true
+            }
+        ],
+        "stringTranslatedPOIDetailAttributes": [
+            {
+                "attributeId": 9,
+                "isDisplayable": true,
+                "attributeName": "Method of payment",
+                "value": [
+                    "BMW Charging/MINI Charging only"
+                ]
+            },
+            {
+                "attributeId": 61,
+                "isDisplayable": true,
+                "attributeName": "Type of connector",
+                "value": [
+                    "AC Type 2"
+                ]
+            }
+        ]
+    },
+    {
+        "className": "POIParkingSuggestion",
+        "type": "CHARGING_AND_PARKING",
+        "suggestionId": "CHARGING_AND_PARKING;7893d37f-a863-4218-8cc4-0f56f011e24e;4;2",
+        "isInitialResult": false,
+        "displayName": "AC Stadtwerke München GmbH",
+        "providerKey": "DE:DCS:CHARGE_POINT:33c39ab8-d92c-34ac-92de-bfe09cc62455",
+        "providerId": 209,
+        "poiCategoryId": 13000,
+        "address": {
+            "country": "Germany",
+            "countryCode": "DE",
+            "street": "Theresienstraße 160",
+            "city": "München",
+            "zipCode": "80333"
+        },
+        "poiEntryLocation": {
+            "lat": 48.152195,
+            "lon": 11.560584
+        },
+        "poiLocation": {
+            "lat": 48.152195,
+            "lon": 11.560584
+        },
+        "walkingDistance": 667,
+        "isWalkingDistanceValid": true,
+        "parkingPriceDescriptor": "NO_INFORMATION",
+        "phoneNumber": "+49 800 796888023",
+        "availability": 1,
+        "booleanTranslatedPOIDetailAttributes": [
+            {
+                "attributeId": -267,
+                "isDisplayable": true,
+                "attributeName": "Reservable",
+                "value": false
+            },
+            {
+                "attributeId": -275,
+                "isDisplayable": true,
+                "attributeName": "BMW Charging/MINI Charging",
+                "value": true
+            }
+        ],
+        "stringTranslatedPOIDetailAttributes": [
+            {
+                "attributeId": 9,
+                "isDisplayable": true,
+                "attributeName": "Method of payment",
+                "value": [
+                    "BMW Charging/MINI Charging only"
+                ]
+            },
+            {
+                "attributeId": 61,
+                "isDisplayable": true,
+                "attributeName": "Type of connector",
+                "value": [
+                    "AC Type 2"
+                ]
+            }
+        ]
+    },
+    {
+        "className": "POIParkingSuggestion",
+        "type": "CHARGING_AND_PARKING",
+        "suggestionId": "CHARGING_AND_PARKING;7893d37f-a863-4218-8cc4-0f56f011e24e;5;3",
+        "isInitialResult": false,
+        "displayName": "AC Stadtwerke München GmbH",
+        "providerKey": "DE:DCS:CHARGE_POINT:3dce58de-c603-329b-89e4-00c131839fa0",
+        "providerId": 209,
+        "poiCategoryId": 13000,
+        "address": {
+            "country": "Germany",
+            "countryCode": "DE",
+            "street": "Gabelsbergerstr. 35",
+            "city": "München",
+            "zipCode": "80333"
+        },
+        "poiEntryLocation": {
+            "lat": 48.14746,
+            "lon": 11.568249
+        },
+        "poiLocation": {
+            "lat": 48.14746,
+            "lon": 11.568249
+        },
+        "walkingDistance": 640,
+        "isWalkingDistanceValid": true,
+        "parkingPriceDescriptor": "NO_INFORMATION",
+        "phoneNumber": "+49 800 796888023",
+        "availability": 1,
+        "booleanTranslatedPOIDetailAttributes": [
+            {
+                "attributeId": -267,
+                "isDisplayable": true,
+                "attributeName": "Reservable",
+                "value": false
+            },
+            {
+                "attributeId": -275,
+                "isDisplayable": true,
+                "attributeName": "BMW Charging/MINI Charging",
+                "value": true
+            }
+        ],
+        "stringTranslatedPOIDetailAttributes": [
+            {
+                "attributeId": 9,
+                "isDisplayable": true,
+                "attributeName": "Method of payment",
+                "value": [
+                    "BMW Charging/MINI Charging only"
+                ]
+            },
+            {
+                "attributeId": 61,
+                "isDisplayable": true,
+                "attributeName": "Type of connector",
+                "value": [
+                    "AC Type 2"
+                ]
+            }
+        ]
+    }
+]
